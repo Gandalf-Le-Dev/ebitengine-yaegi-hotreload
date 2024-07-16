@@ -6,5 +6,5 @@ import (
 )
 
 func DrawDebugString(screen *ebiten.Image) {
-	ebitenutil.DebugPrint(screen, "Ebitengine")
+	ebitenutil.DebugPrint(screen, "THIS IS AN UPDATE")
 }
