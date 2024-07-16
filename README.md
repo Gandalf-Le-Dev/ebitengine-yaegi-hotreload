@@ -29,4 +29,4 @@ After saving press R in game and you will see you updated text.
 
  ## Demo
 
-![demo](./img/DEMO-hotreload.mov)
+https://github.com/user-attachments/assets/f98daded-a875-4886-a5af-85d99c187c25
