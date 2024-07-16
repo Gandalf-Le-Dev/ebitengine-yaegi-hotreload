@@ -27,4 +27,5 @@ func DrawDebugString(screen *ebiten.Image) {
 
 After saving press R in game and you will see you updated text. 
 
- 
+ ## Demo
+
